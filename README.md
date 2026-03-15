@@ -8,11 +8,11 @@ C# WinForms ve MS SQL Server kullanılarak geliştirilmiş, hastane randevu sür
 
 | Giriş Ekranı | Hasta Paneli |
 | :---: | :---: |
-| ![Giriş Ekranı](<img width="999" height="584" alt="Image" src="https://github.com/user-attachments/assets/892eff48-89d6-4515-b038-d1f2dada1d57" />) | ![Hasta Paneli](<img width="1559" height="823" alt="Image" src="https://github.com/user-attachments/assets/4f914362-286c-405a-92f1-a1c0b56bc464" />) |
+| ![Giriş Ekranı](https://github.com/user-attachments/assets/892eff48-89d6-4515-b038-d1f2dada1d57) | ![Hasta Paneli](https://github.com/user-attachments/assets/4f914362-286c-405a-92f1-a1c0b56bc464) |
 
 | Doktor Detayları | Sekreter Yönetimi |
 | :---: | :---: |
-| ![Doktor Paneli](<img width="1562" height="834" alt="Image" src="https://github.com/user-attachments/assets/2041693b-cd4b-4310-8607-2225858a29e1" />) | ![Sekreter Paneli](<img width="1579" height="864" alt="Image" src="https://github.com/user-attachments/assets/2189fe30-239d-4aa1-8ab2-5d0205987d0c" />) |
+| ![Doktor Paneli](https://github.com/user-attachments/assets/2041693b-cd4b-4310-8607-2225858a29e1) | ![Sekreter Paneli](https://github.com/user-attachments/assets/2189fe30-239d-4aa1-8ab2-5d0205987d0c) |
 
 ---
 
